@@ -1,0 +1,3 @@
+rootProject.name = 'ManagerReact'
+
+include ':app'
